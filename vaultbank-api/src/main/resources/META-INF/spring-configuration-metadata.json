@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "api.security.token.secret",
+      "type": "java.lang.String",
+      "description": "JWT token secret key used by the application."
+    }
+  ]
+}
